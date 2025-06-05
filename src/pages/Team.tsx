@@ -103,8 +103,8 @@ const TeamCard3D = ({ member, index }: { member: any, index: number }) => {
 const Team = () => {
   const teamMembers = [
     {
-      name: "Arjun Sharma",
-      kannadaName: "ಅರ್ಜುನ್ ಶರ್ಮಾ",
+      name: "Saravana Kumar S",
+      kannadaName: " ಸರವಣ ಕುಮಾರ್ ಎಸ್",
       role: "President",
       kannadaRole: "ಅಧ್ಯಕ್ಷ",
       bio: "Leading the cultural initiatives and promoting Karnataka's rich heritage among students."
@@ -131,8 +131,8 @@ const Team = () => {
       bio: "Promoting traditional arts, music, and dance forms of Karnataka."
     },
     {
-      name: "Ravi Kumar",
-      kannadaName: "ರವಿ ಕುಮಾರ್",
+      name: "Nithin N",
+      kannadaName: "ನಿತಿನ್ ಎನ್",
       role: "Technical Head",
       kannadaRole: "ತಾಂತ್ರಿಕ ಮುಖ್ಯಸ್ಥ",
       bio: "Managing digital platforms and technical aspects of cultural presentations."
