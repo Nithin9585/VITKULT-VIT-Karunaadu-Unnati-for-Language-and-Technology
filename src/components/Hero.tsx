@@ -35,7 +35,7 @@ export const Hero = () => {
           className="mb-8"
         >
           <h2 className="text-2xl md:text-3xl text-karnataka-gold font-kannada mb-2">
-            ವಿಟ್ ಭೋಪಾಲ್ ಕನ್ನಡ ತಂತ್ರಜ್ಞಾನ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಕ್ಲಬ್
+            ವಿಐಟ್ ಭೋಪಾಲ್ ಕನ್ನಡ ತಂತ್ರಜ್ಞಾನ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಕ್ಲಬ್
           </h2>
           <p className="text-xl md:text-2xl text-white/90 font-medium">
             VIT Bhopal's Kannada Tech & Cultural Club
